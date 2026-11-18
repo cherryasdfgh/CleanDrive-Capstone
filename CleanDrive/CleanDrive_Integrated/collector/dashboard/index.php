@@ -1,0 +1,1 @@
+<?php $portal='collector'; $section='dashboard'; require __DIR__.'/../../includes/page.php';
